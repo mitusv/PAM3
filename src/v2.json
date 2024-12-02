@@ -1,0 +1,78 @@
+{
+	"banner": {
+		"image": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/429861/biz_photo/1dfc60d756a1468a94d514ea78143e-ny-barbershop-2-biz-photo-7b1baff8e1be4ae5a6c06f06ef8aaf-booksy.jpeg",
+		"button_title": "Booking now"
+	},
+	"nearest_barbershop": [
+		{
+			"name": "Barbershop 1",
+			"location_with_distance": "Area 1 (1.1 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.1
+		},
+		{
+			"name": "Barbershop 2",
+			"location_with_distance": "Area 2 (1.2 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.2
+		},
+		{
+			"name": "Barbershop 3",
+			"location_with_distance": "Area 3 (1.3 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.3
+		}
+	],
+	"most_recommended": [
+		{
+			"name": "Master Piece Barbershop - Haircut Styling",
+			"location_with_distance": "Downtown (3 km)",
+			"image": "https://res.cloudinary.com/spendo-live/image/upload/v1708003620/76aaa2e3-29c2-449b-b64f-09e8059e7265.jpg",
+			"review_rate": 4.9
+		},
+		{
+			"name": "Sharp Edge Barbers - Grooming Services",
+			"location_with_distance": "Eastside (4.5 km)",
+			"image": "https://res.cloudinary.com/spendo-live/image/upload/v1708003620/76aaa2e3-29c2-449b-b64f-09e8059e7265.jpg",
+			"review_rate": 4.8
+		},
+		{
+			"name": "Gentlemen's Cut & Style",
+			"location_with_distance": "Old Town (2 km)",
+			"image": "https://res.cloudinary.com/spendo-live/image/upload/v1708003620/76aaa2e3-29c2-449b-b64f-09e8059e7265.jpg",
+			"review_rate": 4.7
+		},
+		{
+			"name": "Classic Trim Barbershop",
+			"location_with_distance": "West End (6 km)",
+			"image": "https://res.cloudinary.com/spendo-live/image/upload/v1708003620/76aaa2e3-29c2-449b-b64f-09e8059e7265.jpg",
+			"review_rate": 4.8
+		},
+		{
+			"name": "Fresh Fade Studio",
+			"location_with_distance": "North Hills (5.2 km)",
+			"image": "https://res.cloudinary.com/spendo-live/image/upload/v1708003620/76aaa2e3-29c2-449b-b64f-09e8059e7265.jpg",
+			"review_rate": 4.9
+		}
+	],
+	"list": [
+		{
+			"name": "Master Piece Barbershop - Haircut Styling",
+			"location_with_distance": "Banguntapan (5 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.9
+		},
+		{
+			"name": "Sharp Edge Barbers - Grooming Services",
+			"location_with_distance": "Downtown (4 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.8
+		},
+		{
+			"name": "Gentlemen's Cut & Style",
+			"location_with_distance": "Old Town (3.5 km)",
+			"image": "https://nshb.uk/wp-content/uploads/2019/04/2-100x100.jpg",
+			"review_rate": 4.7
+		}
+	]
+}
